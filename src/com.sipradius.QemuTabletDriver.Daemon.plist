@@ -13,7 +13,7 @@
         </dict>
         <key>ProgramArguments</key>
         <array>
-            <string>/usr/bin/Qemu Tablet Driver</string>
+            <string>/usr/local/bin/Qemu Tablet Driver</string>
             <string>0x627</string>
             <string>0x1</string>
         </array>
